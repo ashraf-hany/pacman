@@ -1,0 +1,12 @@
+/source
+/.vscode
+/pacman
+/obj
+Makefile
+.vs
+*.vcxproj.user
+*.o
+*.code-workspace
+*.exe
+*.vscode
+*.clang-format
